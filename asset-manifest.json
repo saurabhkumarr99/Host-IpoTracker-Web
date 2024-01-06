@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Host-IpoTracker-Web/static/css/main.56f7d74e.css",
+    "main.js": "/Host-IpoTracker-Web/static/js/main.580d6e4a.js",
+    "static/js/787.1274f42a.chunk.js": "/Host-IpoTracker-Web/static/js/787.1274f42a.chunk.js",
+    "index.html": "/Host-IpoTracker-Web/index.html",
+    "main.56f7d74e.css.map": "/Host-IpoTracker-Web/static/css/main.56f7d74e.css.map",
+    "main.580d6e4a.js.map": "/Host-IpoTracker-Web/static/js/main.580d6e4a.js.map",
+    "787.1274f42a.chunk.js.map": "/Host-IpoTracker-Web/static/js/787.1274f42a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56f7d74e.css",
+    "static/js/main.580d6e4a.js"
+  ]
+}
