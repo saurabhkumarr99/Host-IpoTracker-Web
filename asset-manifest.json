@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Host-IpoTracker-Web/static/css/main.935c450a.css",
-    "main.js": "/Host-IpoTracker-Web/static/js/main.b3cad285.js",
+    "main.js": "/Host-IpoTracker-Web/static/js/main.ecf92f7e.js",
     "static/js/787.1274f42a.chunk.js": "/Host-IpoTracker-Web/static/js/787.1274f42a.chunk.js",
     "static/media/RegImg.png": "/Host-IpoTracker-Web/static/media/RegImg.825ce04d58975ed5f7b5.png",
     "static/media/reg.webp": "/Host-IpoTracker-Web/static/media/reg.096f135735c10089375b.webp",
@@ -9,11 +9,11 @@
     "static/media/jane.jpg": "/Host-IpoTracker-Web/static/media/jane.a1d2f3730ad3b807a1cd.jpg",
     "index.html": "/Host-IpoTracker-Web/index.html",
     "main.935c450a.css.map": "/Host-IpoTracker-Web/static/css/main.935c450a.css.map",
-    "main.b3cad285.js.map": "/Host-IpoTracker-Web/static/js/main.b3cad285.js.map",
+    "main.ecf92f7e.js.map": "/Host-IpoTracker-Web/static/js/main.ecf92f7e.js.map",
     "787.1274f42a.chunk.js.map": "/Host-IpoTracker-Web/static/js/787.1274f42a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.935c450a.css",
-    "static/js/main.b3cad285.js"
+    "static/js/main.ecf92f7e.js"
   ]
 }
